@@ -19,4 +19,4 @@
   - 16% view point costs per reward
   - 7% view nutritional information
   
-    *Data by Software Advice, Inc.*
+*Data by Software Advice, Inc.*
