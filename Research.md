@@ -6,14 +6,14 @@
   - 11% like earning points for getting specific products
   - 3 % none
 
- **Peferred Method for Gaining Points**
+**Peferred Method for Gaining Points**
   - 40% Mobile App
   - 38% Loyalty Card
   - 16% ID at checkout
   - 2% Disposable Punchcard
   - 4% none
 
- **Activities Most Often Performed on the App**
+**Activities Most Often Performed on the App**
   - 36% view rewards balance
   - 29% view menu and prices
   - 16% view point costs per reward
