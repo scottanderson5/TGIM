@@ -1,0 +1,14 @@
+# User Scenarios
+
+**Troy:**
+After being at the university for a couple of weeks Troy has been hanging out with some of the other new freshmen on his dorm room floor. They are trying to think of a place to go for dinner tonight, but have not made up their minds yet. Troy, after doing a Google search, sees that there is TGIM, a neat looking place close to campus. He sees on the site they have a loyalty program on a mobile app available for download. Needing to save money while he will be attending college, Troy suggests TGIM to his other friends for dinner.
+
+**Amy:**
+Amy has just finished up her last class for the week and is now heading over to TGIM, not to grab a bite to eat but, rather, to work. She has been a server at the restaurant since she began studying at the school four years ago. Recently, the restaurant began a new loyalty program, which took some getting used to, but which now she is a fan of. Later that night, while checking out a couple, she hands them the tablet to checkout. Having never used the tablet to checkout before, she smiles and easily walks them through the process, being sure to emphasize the sign up for the loyalty program prompt near the end of the proceedure. The couple signs up for rewards, and Amy tells them they will receive a link via email and text which will allow them to download the mobile app, allowing them to see specials at the restuaurant and track their rewards.
+
+**Susan:**
+It has been a long day at the office and Susan knows, already, that she would like to go have a nice meal with her husband. It has been a long week, and even though it's Friday, TGIM sound slike it may be a good option tonight. Already being involved with their loyalty program, she logs on to the app and shes that she has enough points that she can receive a free appetizer on her next visit. That settles it, tonight they will go to TGIM.
+
+**Harry:**
+Harry comes into the restaurant at 4pm, as he is in charge of managing during the dinner service. In fact, he almost always manages during the dinner service, as his father usually works during lunch. It is only after a few minutes into the service that he notices that he has been seeing some new people in the restaurant, and numbers also seem to be increasing. Mostly because of supersititon, he has been holding out looking at the actual numbers on the Administrator control center POS, because he is nervous and excited about the new system in place. Eventually, he logs on and see that the numbers, indeed, are up for the past 30 days. After looking at the customer page, he sees that they arte already having some repeat visits from customers who had only visited the restaurant for the first time a couple weeks before. He looks forward to telling his wife the good news once he arrives home.
+ 
